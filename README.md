@@ -1,4 +1,4 @@
-# Genetic analysis of Costa Rican Parkinson's disease cohort
+# Clinical and genetic analysis of Costa Rican patients with Parkinson's disease
 
 This repository contains the genetic data of the Costa Rican Parkinson's disease cohort.
 
